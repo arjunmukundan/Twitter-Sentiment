@@ -1,5 +1,5 @@
-R-and-Python
+Tweetiment - Sentiment Analysis of Topic Based Tweets
 ============
-Some of these models may have been previously used, but I am trying to use them in a new context.
+Text analytical engine for sentiment analysis of topic based tweets.
 
-Checkout my application for Analyzing the sentiment of topic based tweets: https://arjun.shinyapps.io/Twitter-Sentiment
+Checkout the application: https://arjun.shinyapps.io/Twitter-Sentiment
